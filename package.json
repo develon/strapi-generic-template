@@ -1,0 +1,31 @@
+{
+  "name": "@develon/strapi-generic-template",
+  "version": "1.0.0",
+  "description": "Strapi generic template",
+  "keywords": [
+    "strapi",
+    "template",
+    "generic"
+  ],
+  "homepage": "https://github.com/develon/strapi-generic-template#readme",
+  "bugs": {
+    "url": "https://github.com/develon/strapi-generic-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develon/strapi-generic-template.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Develon Digital team",
+    "email": "developers@develondigital.com",
+    "url": "https://develondigital.com"
+  },
+  "maintainers": [
+    {
+      "name": "Develon Digital team",
+      "email": "developers@develondigital.com",
+      "url": "https://develondigital.com"
+    }
+  ]
+}
