@@ -1,0 +1,15 @@
+{
+  "package": {
+    "dependencies": {
+      "@strapi/plugin-documentation": "latest",
+      "@strapi/plugin-sentry": "latest",
+      "@strapi/plugin-seo": "latest",
+      "strapi-plugin-duplicate-button": "latest",
+      "strapi-plugin-import-export-entries": "latest",
+      "strapi-plugin-local-image-sharp": "latest",
+      "strapi-plugin-populate-deep": "latest",
+      "strapi-plugin-rest-cache": "latest",
+      "strapi-provider-rest-cache-memory": "latest"
+    }
+  }
+}
